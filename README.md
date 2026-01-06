@@ -1,4 +1,4 @@
-# ZaUI Menu
+# zmp-eat-good-daily
 
 <p style="display: flex; flex-wrap: wrap; gap: 4px">
   <img alt="vite" src="https://img.shields.io/github/package-json/dependency-version/Zalo-MiniApp/zaui-menu/dev/vite" />
